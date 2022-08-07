@@ -1,0 +1,20 @@
+{
+  "name": "djs-v13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Skytex",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord-api-types": "^0.37.1",
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.4.7",
+    "os": "^0.1.2"
+  }
+}
