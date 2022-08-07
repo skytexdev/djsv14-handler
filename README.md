@@ -8,9 +8,14 @@ https://m.youtube.com/c/FusionTerror/featured
                              
                              
                                 !!!LOOK AT HERE!!!
+                           -- When you download the file
+                           open it with Visual Studio Code
+                           Then create a new terminal.
+                           In terminal type:
+                           npm install discord.js
                                                 
-                           --Create a file called .env
-                           Add token and dblogin like this
+                           --Create a file called .env then
+                           Add token and dbToken like this
                            
                            token=your_bots_token_goes_here
                            dbToken=your_mongodb_token
