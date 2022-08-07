@@ -7,7 +7,7 @@ https://m.youtube.com/c/FusionTerror/featured
                              
                              
                              
-                             !!!LOOK AT HERE!!!
+                                !!!LOOK AT HERE!!!
                                                 
                            --Create a file called .env
                            Add token and dblogin like this
