@@ -7,4 +7,4 @@ This handler is made for Discord.js V14
                            Add token and dblogin like this
                            
                            token=your_bots_token_goes_here
-                           dbToken=dbtoken
+                           dbToken=your_mongodb_token
