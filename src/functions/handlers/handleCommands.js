@@ -18,8 +18,8 @@ module.exports = (client) => {
             //console.log(`Command: ${command.data.name} has been passed through the handler`);
         }
     }
-        const clientId = "1001267723369713745";
-        //const guildId = "908854420660428871";
+        const clientId = "your_bots_client_id";
+        //const guildId = "dont use this if you want to make tour codes global (leave it like this)";
         const rest = new REST({ version: "9" }).setToken(process.env.token);
         try {
             console.log("Started refreshing application (/) commands.");
