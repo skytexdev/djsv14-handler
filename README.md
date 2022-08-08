@@ -8,14 +8,14 @@ https://m.youtube.com/c/FusionTerror/featured
                              
                              
                                                   <h3 align="center">!!!LOOK AT HERE!!!
-                                                  -- When you download the file
+                                                  When you download the file
                                                   open it with Visual Studio Code
                                                   Then create a new terminal.
                                                   On terminal, type:
                                                   npm install discord.js
                                                   npm i dotenv 
                                                 
-                                                  --Create a file called .env then
+                                                  Create a file called .env then
                                                    Add token and dbToken like this
 
                                                    token=your_bots_token_goes_here
