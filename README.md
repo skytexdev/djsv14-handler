@@ -13,6 +13,7 @@ https://m.youtube.com/c/FusionTerror/featured
                            Then create a new terminal.
                            In terminal type:
                            npm install discord.js
+                           npm i dotenv 
                                                 
                            --Create a file called .env then
                            Add token and dbToken like this
