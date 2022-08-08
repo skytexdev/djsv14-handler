@@ -7,7 +7,7 @@ https://m.youtube.com/c/FusionTerror/featured
                              
                              
                              
-                                                  !!!LOOK AT HERE!!!
+                                                  <h3 align="center">!!!LOOK AT HERE!!!
                                                   -- When you download the file
                                                   open it with Visual Studio Code
                                                   Then create a new terminal.
@@ -19,4 +19,4 @@ https://m.youtube.com/c/FusionTerror/featured
                                                    Add token and dbToken like this
 
                                                    token=your_bots_token_goes_here
-                                                   dbToken=your_mongodb_token
+                                                   dbToken=your_mongodb_token</h3>
