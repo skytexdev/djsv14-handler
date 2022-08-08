@@ -11,7 +11,7 @@ https://m.youtube.com/c/FusionTerror/featured
                            -- When you download the file
                            open it with Visual Studio Code
                            Then create a new terminal.
-                           In terminal type:
+                           On terminal, type:
                            npm install discord.js
                            npm i dotenv 
                                                 
