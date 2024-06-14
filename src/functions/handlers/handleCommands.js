@@ -19,7 +19,7 @@ module.exports = (client) => {
         }
     }
         const clientId = "your_bots_client_id";
-        //const guildId = "dont use this if you want to make tour codes global (leave it like this)";
+        //const guildId = "dont use this if you want to make your codes global (leave it like this)";
         const rest = new REST({ version: "9" }).setToken(process.env.token);
         try {
             console.log("Started refreshing application (/) commands.");
